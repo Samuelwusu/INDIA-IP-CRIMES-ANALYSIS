@@ -27,3 +27,43 @@ To ensure fairness in comparison, the analysis focuses not only on total crime c
 * Based on the year-by-year line chart:
 * Crime levels in Kerala remained relatively low from 2001-2007.
 * **2008**: Crime began to rise noticeably.
+* **2011**: Crime reached its **peak**.
+* **2012**: Crime declined a bit a temporary improvement.
+* **2013** Crime rose again, exceeding even the 2011 peak.
+
+* **Interpretation**:
+* Kerala experienced a temporary improvement in 2012, suggesting that some intervention or change during that period helped reduce crime, but the effect was not sustained in 2013.
+
+* **2.4 Crime-Type Distribution in Kerala**
+* Based on the Kerala crime composition pie chart:
+* 1. 56% of crimes fall under **OTHER IPC CRIMES**(category not explicitly defined in the dataset).
+  2. 15% come from Grievious Hurt, making it the second major crime type.
+  3. The remaining crime types make up smaller portions of the total.
+ These two categories alone make up 71% of Kerala's total crimes in the dataset.
+  
+  **DASHBOARD VISUALS USED**
+  The following Visuals were included in the dashboard to support the analysis:
+  1. **Bar Chart** Total IPC Crimes by state shows overallcrime volume across states.
+  2. **Clustered Column Chart** Population by state, Used to compare crime volume against population size.
+  3. **Clustered Column Chart** Top 10 state by Average Crime Rate, Highlights Kerala ( and Puducherry, though limited data) as highest.
+  4. **Pie Chart** Percentage of Each Crime Type in Kerala, Shows which crimes dominate Kerala's crime profile.
+  5. **Line Chart** Year Count By States, Displays dataset coverage over time.
+  6. **Line Chart** Trend of IPC Crimes by State (2001-2013), Used specifically to understand Kerala's crime trend over time.
+  7. **Slicer** To help Navigate all the charts on the dashboard for easy explanation.
+ 
+  **4. Conclusions**
+
+  The analysis demonstrates that:
+  1. Total Crime count does not reflect true risk because it is heavily influenced by population size.
+  2. Kerala is the most concerning state when focusing on average crime rate, based on consistent data.
+  3. Kerala's Crime trend suggests an  uncontrolled rise, with only a temporary improvement in 2012.
+  4. Crime types are heavily dominated by "other IPC Crimes" and "Grevious Hurt", which together account for most incidents.
+
+   **5. Recommendations**
+  Based on my findings through my dashboard:
+  1. Reinstate practices from 2012, Whatever interventions contributed to the decline in 2012 should be analyzed and repeated, since they produced a clear temporary improvement.
+  2. Prioritize monitoring of "Grievous Hurt" incidents. As the second largest known category (15%), reducing these crimes would noticeably improve Kerala's overal safety levels.
+  3. Investigate "Other IPC Crimes" further, Since this category accounts for 56% of all crimes but is not clearly defind, deeper classification or better reporting would make future analysis more effective.
+ <img width="881" height="550" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/2bd1540c-4c1b-4fab-9d63-205db5fdd9ba" />
+
+  

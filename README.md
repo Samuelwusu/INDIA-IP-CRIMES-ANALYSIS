@@ -22,3 +22,8 @@ To ensure fairness in comparison, the analysis focuses not only on total crime c
 * **Puducherry** showed the highest average crime rate but only one year of data was available for this state.
 * Due to limited data for Puducherry, the next most reliable measure was the state with the highest average crime rate across multiple years.
 * That state was **KERALA**, which consistently showed the highest average crime rate during the dataset period.
+
+* **.3 Trends in Kerala(2001-2013)**
+* Based on the year-by-year line chart:
+* Crime levels in Kerala remained relatively low from 2001-2007.
+* **2008**: Crime began to rise noticeably.

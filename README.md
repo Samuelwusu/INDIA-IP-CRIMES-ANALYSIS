@@ -60,7 +60,7 @@ To ensure fairness in comparison, the analysis focuses not only on total crime c
   4. Crime types are heavily dominated by "other IPC Crimes" and "Grevious Hurt", which together account for most incidents.
 
    **5. Recommendations**
-  Based on my findings through my dashboard:
+  Based on the findings through the dashboard:
   1. Reinstate practices from 2012, Whatever interventions contributed to the decline in 2012 should be analyzed and repeated, since they produced a clear temporary improvement.
   2. Prioritize monitoring of "Grievous Hurt" incidents. As the second largest known category (15%), reducing these crimes would noticeably improve Kerala's overal safety levels.
   3. Investigate "Other IPC Crimes" further, Since this category accounts for 56% of all crimes but is not clearly defind, deeper classification or better reporting would make future analysis more effective.
